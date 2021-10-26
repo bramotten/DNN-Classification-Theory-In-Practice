@@ -1,0 +1,9 @@
+.vscode
+.ipynb*
+.idea
+__pycache__
+Hidden\ Documents
+Old\ code   
+Trashcan
+Pictures
+fonts
